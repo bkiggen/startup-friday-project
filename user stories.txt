@@ -1,43 +1,63 @@
 Mary - Digital Artist :
 Needs: Quick access to Coffee, Possibility of working in her own quiet space, Quick access to creative supplies, a safe place
-to freely express, a sense of being in a "creative space", spontanius events to provoke creativity.
+to freely express, a sense of being in a "creative space", spontanious events to provoke creativity.
 
-Pain points: Inability to voice concerns to staff and be taken seriously
+Pain points: Inability to voice concerns to staff and be taken seriously, lack of coffee
 
 
 How can we serve? :
+Ensure that we provide desired supplies and utilities
+Emphasize coffee bar!
+Show off diverse working spaces
+Advertise inclusion culture and staff readiness to listen to customer concerns.
 
 
 
-User stories -
-" I need an enviroment where I can express myself freely without having to worry about logistical issues
+User Stories -
+"As a digital artist I need an enviroment where I can express myself freely without having to worry about logistical issues
 or distractions"
+
+"As a digital artist, I desire a space that is conducive to creativity, inspiration comes in many shapes and sizes"
+
+"As a digital artist, I have a significant caffiene addiction, I need my fix."
+
+"As a digital artist, I need to know that my work space is safe and stresses inclusivity to all kinds of people"
 
 
 
 
 ************************************************************
-Timothy - Entrepenour :
-Needs: Large spaces to accomodate large groups, ease of access for fluent movement to and from facility
+Tim - Entrepenour :
+Needs: Large spaces to accomodate large groups, ease of access for fluent movement to and from facility, high speed internet to
+move large amounts of data, staff that can accomodate sizable groups/meetings, workspace must feel and appear proffesional in nature.
 
-Pain points:
+Pain points: Overcrowding in work space 
 
 
 How can we serve? :
+Show off larger work areas.
+Display more "Bussiness oriented" work spaces.
+effectively advertise speedy internet connection.
 
 
 
-
-" I want a workspace where I can meet likeminded people to discuss business ideas with while having the needed tools
+User Stories :
+"As an entrepenour, I want a workspace where I can meet likeminded people to discuss business ideas with while having the needed tools
 at our immediate disposal"
+
+"As an entrepenour, I need to able to come and go at any hour without much difficulty,
 
 
 ************************************************************
 Susan - Web Developer :
-Needs: A choice between group interaction and quiet solitude,
+Needs: A choice between group interaction and quiet solitude, reasonable accomodations, a proffesional enviroment with a bit of artistic flare,
+consistant internet connection and instant updates as to connection quality,
 
 
 Pain points:
 
 
 How can we serve? :
+
+
+User Stories :
