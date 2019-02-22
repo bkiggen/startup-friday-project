@@ -1,31 +1,35 @@
 # _Chat with a robot_
 
-#### _A website where you can chat with an robot!, 1/25/19_
+#### _A full fledged website design! 1/25/19_
 
 #### By _**Nathan Nielson**_
 
 ## Description
 
-_This application provides the user with the oppurtunity to chat with an actual robot!_ 
+_This application provides the user with the oppurtunity to peer into a cohesive design process_ 
+
+
+
+## _User Personas_
+    
+
+
+
+
+
+## _User Stories_
+
+
+
+
 
 
 ## Specs
-*_Spec: The program returns a range of numbers from 0 to the users inputted number
-        Input: "4"
-        Output: "0, 1, 2, 3, 4"_
-*_Spec: Exception 1: The program will replace any number that contains a one(1) with "Beep!"
-	    Input:"21"
-	    Output: "Beep!"_
-*_Spec: Exception 2: The program will replace any number that contains a two(2) with "Boop!"
-        Input: "32"
-	    Output: "Boop!"_
-*_Spec: Exception 3: The program will replace any number that contains a three(3) with "I'm sorry, Dave. I can't do that."
-	    Input: "43"
-	    Output: "I'm sorry, Dave. I can't do that."_
+*_Spec: 
+*_Spec: 
+*_Spec: 
+*_Spec: 
     
-_These exceptions are written from least to most important. The first exception should apply unless the second exception does, and the same with the second and third._
-
-*_Spec: A user should be able to enter a new number and see new results over and over again._
 
 
 
