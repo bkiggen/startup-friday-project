@@ -36,7 +36,7 @@ Pain points: Overcrowding in work space
 
 How can we serve? :
 Show off larger work areas.
-Display more "Bussiness oriented" work spaces.
+Display more "Business oriented" work spaces.
 effectively advertise speedy internet connection.
 
 
@@ -45,7 +45,9 @@ User Stories :
 "As an entrepenour, I want a workspace where I can meet likeminded people to discuss business ideas with while having the needed tools
 at our immediate disposal"
 
-"As an entrepenour, I need to able to come and go at any hour without much difficulty,
+"As an entrepenour, I need to able to come and go at any hour without much difficulty"
+
+"As an entrepenour, I want my workspace to FEEL like a workspace"
 
 
 ************************************************************
@@ -57,7 +59,17 @@ consistant internet connection and instant updates as to connection quality,
 Pain points:
 
 
-How can we serve? :
+How can we serve? : 
+Show off diverse working spaces
 
 
 User Stories :
+"As a web dev, I need a consistant internet connection and will need to know immediately if there are any issues with the facilities connection"
+
+"As a web dev, I need the option to work in a quiet and confined space"
+
+""As a web dev, I need a consistant internet connection and will need to know immediately if there are any issues with the facilities connection"
+
+
+
+

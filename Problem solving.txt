@@ -5,10 +5,10 @@ What do we want to convey:
 -Diverse workspaces! Accomadating to all kinds of bussiness!
 -Consistant, high speed internet and needed hardware!
 -Quality ammenities to facilitate focus and comfort.
-- WE MAKE WORK EASIER FOR EVERYONE
+- WE MAKE WORK EASIER FOR EVERYONE!!!
 
 How shall we convey this:
--Critical information will be communicated immediatly, utilizing icons and brief, well placed descriptions.
+-Critical information will be communicated immediatly, utilizing icons and brief, succinct, well placed descriptions.
 -Strategically placed images and more laid back, unobtrusive fonts on the landing page.
 -"Low key" color scheme that simaltaniously conveys proffessionalism and creativity, Likely based around Orange or Yellow.
 -KEEP CONTENT NEAR MIDDLE OF SCREEN.
@@ -20,5 +20,8 @@ User story insights :
 -Look and feel should be immediatly understood by user, without reading any "fine deatils"
 
 
-
-
+Outside sources :
+https://www.techspace.com/#homepagevideo
+https://centrloffice.com/#
+http://www.nedspace.com/#pricing
+https://urbanofficeplace.com/en
